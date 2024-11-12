@@ -1,0 +1,13 @@
+# Class config file for YOLOV5.
+# Used to test training code before actual training to make sure everything is working.
+path: test_dataset 
+train: images/train
+val: images/val
+
+nc: 3
+
+# Define the classes
+names:
+  0: N/A
+  1: Sneakers
+  2: Chair

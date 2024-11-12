@@ -1,0 +1,7 @@
+tkinterdnd2
+Pillow
+customtkinter
+torch
+pyyaml
+opencv-python
+numpy
